@@ -1,0 +1,3 @@
+This file records all changes to the project.
+Be careful and attentive when using it.
+Always save before closing.
